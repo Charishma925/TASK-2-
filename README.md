@@ -47,10 +47,3 @@ The Iris dataset consists of 150 samples with the following features:
    - **Versicolor** and **Virginica** show some overlap in feature space.
 
 ---
-
-## How to Run
-
-1. Clone this repository or copy the code into a Jupyter Notebook.
-2. Ensure you have the required libraries:
-   ```bash
-   pip install pandas matplotlib seaborn plotly
